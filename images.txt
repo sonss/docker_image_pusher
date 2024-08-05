@@ -4,4 +4,4 @@ lobehub/lobe-chat
 postgres
 mysql
 neosmemo/memos
-
+ghost
