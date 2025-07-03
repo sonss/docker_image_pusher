@@ -5,4 +5,4 @@ postgres
 mysql
 neosmemo/memos
 ghost
-blinko
+blinkospace/blinko
