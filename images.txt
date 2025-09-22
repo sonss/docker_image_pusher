@@ -3,6 +3,6 @@ nginx
 lobehub/lobe-chat
 postgres
 mysql
-neosmemo/memos
+neosmemo/memos:canary
 ghost
 blinkospace/blinko
