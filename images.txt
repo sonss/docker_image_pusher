@@ -1,8 +1,5 @@
 docker
 nginx
-lobehub/lobe-chat
 postgres
 mysql
 neosmemo/memos:canary
-ghost
-blinkospace/blinko
